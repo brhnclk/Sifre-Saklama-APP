@@ -2,8 +2,9 @@
 Swift dili ile geliştirdiğim bu uygulamada:
 - belirlenen şifre ile giriş sağlama
 - her bir kayıt için ayrı kart görünümü
-- - kartlara isim, açıklama, şifre gibi bilgiler eklenebilen alanlar
-- kayıtlı bilgilerin cihazda saklanması
+  - kartlara isim, açıklama, şifre gibi bilgiler eklenebilen alanlar
+- kayıtlı bilgilerin cihazda saklama
+- arama çubuğu ile kayıtları filtreleyerek hızlı erişim sağlama
 gibi özellikler bulunmaktadır.
 
 | Dark Mode Şifre Ekranı | Dark Mode Şifre Değiştirme Ekranı | Dark Mode Ana Ekran |  Dark Mode Kayıt Ekranı |  Dark Mode Arama Ekranı |
